@@ -8,9 +8,9 @@ public class BMICalculator
       // create a Scanner to obtain input from the command window
       Scanner input = new Scanner(System.in);
 
-      float height; 
-      float weight; 
-      float sum;
+      int height; 
+      int weight; 
+      int sum;
 
       System.out.print("Welcome to the BMI (Body Mass Index) calculator");
       System.out.print("\nPlease enter your weight (kilograms): "); // prompt 
