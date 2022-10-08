@@ -11,6 +11,7 @@ public class BMICalculator
       int height; 
       int weight; 
       int sum;
+	  int result = 0;
 
       System.out.print("Welcome to the BMI (Body Mass Index) calculator");
       System.out.print("\nPlease enter your weight (kilograms): "); // prompt 
